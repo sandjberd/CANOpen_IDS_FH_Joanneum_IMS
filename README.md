@@ -1,4 +1,4 @@
-# CANopen IDS Testbed — Red vs. Blue Team on ESP32
+# CANopen IDS Testbed - Red vs. Blue Team on ESP32
 
 A specification-based intrusion detection system (IDS) for CANopen on embedded
 hardware. This repository holds the full implementation for the master's thesis
